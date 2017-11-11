@@ -54,3 +54,6 @@ docs/source/api/*.rst
 # autodoc (see comment above for api)
 docs/source/plugins/*.rst
 !docs/source/plugins/index.rst
+
+# PyCharm/IDEA
+.idea
